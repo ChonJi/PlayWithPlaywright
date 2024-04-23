@@ -1,4 +1,4 @@
-name: All browsers run on push
+name: manual chrome run
 on:
   workflow_dispatch:
 jobs:
